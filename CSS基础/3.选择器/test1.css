@@ -69,9 +69,12 @@
      color: red;
  } */
 
- .special{
+.special{
+    color: red;
+}
+.special~li,p{
+    color: #008c8c;
+}
+ /* div>ul>li{
      color: red;
- }
- .special~li{
-     color: #008c8c;
- }
+ } */
