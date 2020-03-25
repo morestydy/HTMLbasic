@@ -1,0 +1,46 @@
+body{
+    line-height: 2;
+    background: #4d4a40;
+    padding: 20px;
+}
+
+.baidu{
+    background: #fff;
+    width: 90%;
+    margin:0 auto;
+    padding: 30px 0;
+}
+.baidu header{
+    background: #267890;
+    text-align: center;
+    border: 5px solid #14414e;
+    margin: 0 -34px;
+}
+.baidu header h1{
+    font-size: 42px;
+    color: #fff;
+}
+.baidu header .orginal-link{
+    color: #dbdbdb;
+    margin-bottom: 30px;
+}
+.baidu header .orginal-link a{
+    text-decoration: underline;
+}
+.baidu header .orginal-link a:hover{
+    color: #fff;
+}
+.baidu section{
+    width: 90%;
+    margin: 0 auto;
+
+}
+.baidu section h2{
+    font-size: 32px;
+    font-weight: bold;
+    border-top: 1px dotted;
+    border-bottom: 1px dotted;
+}
+.baidu section p{
+    margin-top: 1em;
+}
