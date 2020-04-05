@@ -1,7 +1,7 @@
 body{
     color: #333;
 }
-.clear-fix{
+.clear-fix::after{
     content: "";
     clear: both;
     display: block;
